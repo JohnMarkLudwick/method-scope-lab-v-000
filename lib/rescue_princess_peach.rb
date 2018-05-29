@@ -1,5 +1,5 @@
-rescue_princess_peach
-puts status
+#rescue_princess_peach
+#puts status
 
 def rescue_princess_peach
   status = "rescued"
